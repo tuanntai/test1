@@ -1,0 +1,13 @@
+@charset "utf-8";
+
+#test1{
+    font-size:150px;
+    font-weight:bold;
+    font-style:italic;
+    color:pink;
+    font-family:'Times New Roman', Times, serif;
+    text-align:center;
+    width:15;
+    height:15;
+    text-decoration:overline;
+}

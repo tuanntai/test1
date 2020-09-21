@@ -1,0 +1,14 @@
+@charset "utf-8";
+body{
+    background-image: url('./background1.jpg');
+    background-attachment: fixed;
+
+    
+};
+Video1 {
+    position: absolute;
+    top:50px;
+    bottom:100px;
+    left:70px;
+    right:140px;
+}
